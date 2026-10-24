@@ -26,19 +26,19 @@ The **UniXsport Admin Dashboard** serves as the central control center for admin
   * Interactive breakdown widget monitoring stock availability (*Available*, *Borrowed*, *Needs Repair*).
   * Quick-action shortcuts and recent announcement feed.
 
-👥 User Management (Students & Coaches)
+**👥 User Management (Students & Coaches)**
   * Full user account control with role filtering (`Student` vs `Coach`) and real-time name/email search.
   * RFID tag code tracking and role-based badge displays.
   * Direct CRUD operations (Add, Edit, Delete user profiles).
 
-🏋️ Gym & Sports Equipment Inventory
+**🏋️ Gym & Sports Equipment Inventory**
   * Complete inventory tracking filtered by status (*Available*, *Borrowed*, *Damaged*) and venue/room (*Main Gym Hall*, *Badminton Court*, *Cricket Pavilion*, *Indoor Complex*).
   * Quantity tracking and color-coded condition badges.
 
-📢 Notice & Broadcast Center
+**📢 Notice & Broadcast Center**
   * Publish sitewide announcements targetable by audience (*All*, *Students Only*, *Coaches Only*).
   * Priority level tagging (*Normal*, *High*, *Urgent*).
 
-👤 Admin Profile & Account Settings
+**👤 Admin Profile & Account Settings**
   * Profile picture upload with instant client-side preview.
   * Credentials management and password security updates.
