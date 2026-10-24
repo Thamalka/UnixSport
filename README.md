@@ -21,7 +21,7 @@ The **UniXsport Admin Dashboard** serves as the central control center for admin
 
 🌟 Key Admin Features
 
-📊 Real-time Overview Dashboard**
+**📊 Real-time Overview Dashboard**
   * Live status counters for Total Students, Coaches, Equipment Inventory, and Damaged Items.
   * Interactive breakdown widget monitoring stock availability (*Available*, *Borrowed*, *Needs Repair*).
   * Quick-action shortcuts and recent announcement feed.
